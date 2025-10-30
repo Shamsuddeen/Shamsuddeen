@@ -5,7 +5,7 @@
 
 - 🔭 Building in _FinTech_ 🔥
 - 🌱 Currently learning ✨ Web3 ✨
-- 😄 He/She
+- 😄 He/Him
 
 ## Connect With Me:
 
