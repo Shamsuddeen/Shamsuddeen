@@ -19,14 +19,6 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shamsuddeen&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
----
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
